@@ -1,0 +1,26 @@
+{
+  "name": "product-scanner-frontend-full",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.7",
+    "firebase": "^11.0.0",
+    "framer-motion": "^11.0.0",
+    "html5-qrcode": "^2.3.8",
+    "next": "14.2.4",
+    "postcss": "^8.4.47",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.5"
+  }
+}
